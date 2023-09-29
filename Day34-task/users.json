@@ -1,0 +1,47 @@
+[
+    {
+        "id":1,
+        "mail":"user1@gamil.com",
+        "password":"some",
+        "name":"user1",
+        "batch":"B01",
+        "program":"FSD",
+        "joinedDate":"02 oct 2020"
+    },
+    {
+        "id":2,
+        "mail":"user1@gamil.com",
+        "password":"some",
+        "name":"user2",
+        "batch":"B01",
+        "program":"FSD",
+        "joinedDate":"05 oct 2020"
+    },
+    {
+        "id":3,
+        "mail":"user1@gamil.com",
+        "password":"some",
+        "name":"user3",
+        "batch":"B01",
+        "program":"FSD",
+        "joinedDate":"12 oct 2020"
+    },
+    {
+        "id":4,
+        "mail":"user1@gamil.com",
+        "password":"some",
+        "name":"user4",
+        "batch":"B01",
+        "program":"FSD",
+        "joinedDate":"02 nov 2020"
+    },
+    {
+        "id":5,
+        "mail":"user1@gamil.com",
+        "password":"some",
+        "name":"user5",
+        "batch":"B01",
+        "program":"FSD",
+        "joinedDate":"10 nov 2020"
+    }
+]
